@@ -4,7 +4,7 @@
             <div class="flex flex-col items-center">
                 <div class="mt-6 sm:max-w-xl bg-black p-10">
                     <h1 class="text-4xl text-white tracking-tight sm:text-5xl">Hi, I'm <span class="font-extrabold text-green">JB MERCIER</span></h1>
-                    <p class="mt-6 text-xl text-white">A simple and flexible plugin built on top of <span class="text-green">Sylius</span> ecommerce platform. Same spirit, same possibilities.</p>
+                    <p class="mt-6 text-xl text-white">A back-end dev who loves 🏎️ 🏁 and  🕹️ 🎵</p>
                 </div>
                 <div class="mb-10 mt-12 sm:max-w-lg w-1/2 xl:mb-0">
                     <a href="#contact" class="text-center block w-full border border-transparent px-5 py-3 bg-green text-base font-medium text-black shadow hover:bg-dark-green sm:px-10">Contact me !</a>
