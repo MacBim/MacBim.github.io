@@ -9,7 +9,7 @@
                         <div class="flow-root bg-dark-black border-b-4 border-green shadow-2xl px-6 pb-8">
                             <div class="-mt-6">
                                 <div class="inline-flex items-center justify-center rounded-md bg-gradient-to-r from-purple to-green p-3 shadow-lg">
-                                    <img src="images/sylius-icon.svg" alt="icon sylius" class="h-10 w-10">
+                                    <img src="/images/sylius-icon.svg" alt="icon sylius" class="h-10 w-10">
                                 </div>
                                 <h2 class="mt-6 text-lg font-medium tracking-tight text-white">Sylius</h2>
                                 <p class="mt-5 text-base text-white">
@@ -23,7 +23,7 @@
                         <div class="flow-root bg-dark-black border-b-4 border-green shadow-2xl px-6 pb-8">
                             <div class="-mt-6">
                                 <div class="inline-flex items-center justify-center rounded-md bg-gradient-to-r from-purple to-green p-3 shadow-lg">
-                                    <img src="images/symfony-text.svg" alt="icon symfony" class="h-10 w-10">
+                                    <img src="/images/symfony-text.svg" alt="icon symfony" class="h-10 w-10">
                                 </div>
                                 <h2 class="mt-6 text-lg font-medium tracking-tight text-white">Symfony</h2>
                                 <p class="mt-5 text-base text-white">
@@ -37,7 +37,7 @@
                         <div class="flow-root bg-dark-black border-b-4 border-green shadow-2xl px-6 pb-8">
                             <div class="-mt-6">
                                 <div class="inline-flex items-center justify-center rounded-md bg-gradient-to-r from-purple to-green p-3 shadow-lg">
-                                    <img src="images/php-text.svg" alt="icon php" class="h-10 w-10">
+                                    <img src="/images/php-text.svg" alt="icon php" class="h-10 w-10">
                                 </div>
                                 <h2 class="mt-6 text-lg font-medium tracking-tight text-white">PHP</h2>
                                 <p class="mt-5 text-base text-white">

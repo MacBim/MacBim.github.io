@@ -37,7 +37,7 @@
                     <div class="absolute inset-y-0 triangle-reverse bg-green left-0 right-0 w-full"></div>
                     <div class="absolute inset-y-0 triangle bg-green left-0 right-0 w-full"></div>
                 </div>
-                <img src="build/front/images/fond.svg" alt="" class="absolute bottom-0 right-0 w-4/5 big-desktop:w-2/5 big-desktop:right-72">
+                <img src="/images/fond.svg" alt="" class="absolute bottom-0 right-0 w-4/5 big-desktop:w-2/5 big-desktop:right-72">
             </div>
         </div>
     </main>

@@ -11,7 +11,7 @@
                 </div>
             </div>
 
-            <img src="images/portrait-jb.png" alt="portrait jb" class="xl:absolute bottom-0 right-36 big-desktop:right-1/3 z-20">
+            <img src="/images/portrait-jb.png" alt="portrait jb" class="xl:absolute bottom-0 right-36 big-desktop:right-1/3 z-20">
         </div>
 
         <div class="sm:mx-auto sm:max-w-3xl sm:px-6">
@@ -20,7 +20,7 @@
                     <div class="absolute inset-y-0 left-1/2 w-screen triangle-reverse bg-green lg:left-0 lg:right-0 lg:w-full"></div>
                     <div class="absolute inset-y-0 left-1/2 w-screen triangle bg-green lg:left-0 lg:right-0 lg:w-full"></div>
                 </div>
-                <img src="images/fond.svg" alt="" class="hidden xl:block absolute bottom-0 right-0 w-4/5 big-desktop:w-2/5 big-desktop:right-72">
+                <img src="/images/fond.svg" alt="" class="hidden xl:block absolute bottom-0 right-0 w-4/5 big-desktop:w-2/5 big-desktop:right-72">
             </div>
         </div>
     </section>
