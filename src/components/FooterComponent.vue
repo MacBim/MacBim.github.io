@@ -9,7 +9,7 @@
 
       <div class="mt-8 text-center md:mt-0">
         <RouterLink to="/legal" class="relative z-10 text-base text-white hover:text-gray"
-          >Informations légales</RouterLink
+          >Legal Informations</RouterLink
         >
       </div>
     </div>

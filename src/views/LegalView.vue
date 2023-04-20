@@ -1,33 +1,27 @@
 <template>
   <div>
     <section class="mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl py-10 md:py-20">
-      <RouterLink to="/" class="text-lg text-green">Retourner à l'accueil</RouterLink>
+      <RouterLink to="/" class="text-lg text-green">Return to the home page</RouterLink>
       <div class="mt-10 md:mt-20">
         <h1 class="text-center text-white font-black inline-block text-4xl md:text-5xl">
-          Informations Légales
+          Legal Informations
         </h1>
       </div>
     </section>
 
     <section class="pt-10 mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-      <h1 class="text-green font-black text-4xl">Crédits</h1>
+      <h1 class="text-green font-black text-4xl">Credits</h1>
       <div class="mt-6 text-xl text-white">
-        <p>
-          Le site de JB MERCIER accessible à l'adresse jb.mercier.com a été conçu et développé par
-          Amélia MASSOT.
-        </p>
-        <p>
-          Ce site a été réalisé dans le cadre de la mise à disposition des compétences de web design
-          et de développement web d'Amélia MASSOT au sein de l'entreprise AKAWAKA, son employeur.
-        </p>
-        <p>Le contenu du site a été rédigé par JB MERCIER, qui est le propriétaire du site.</p>
+        <p>JB MERCIER's website is available at jb.mercier.com and was designed and developed by Amélia MASSOT.</p>
+        <p>This website was created as part of Amélia MASSOT's web design and web development skills within the company AKAWAKA, her employer.</p>
+        <p>The content of the site was written by JB MERCIER, who is the owner of the site.</p>
       </div>
     </section>
 
     <section class="pt-10 mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-      <h1 class="text-green font-black text-4xl">Droit d'auteur</h1>
+      <h1 class="text-green font-black text-4xl">Copyright</h1>
       <p class="mt-6 text-xl text-white">
-        Le contenu disponible sur ce site est, sauf mention contraire, diffusé sous licence
+        The content available on this site is, unless otherwise stated, licensed under
         <a href="https://creativecommons.org/licenses/by-sa/2.0/fr/" class="underline"
           >Creative Commons (BY-SA)</a
         >.
@@ -35,8 +29,8 @@
     </section>
 
     <section class="pt-10 mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
-      <h1 class="text-green font-black text-4xl">Vie privée</h1>
-      <p class="mt-6 text-xl text-white">Ce site ne recueille aucune donnée personnelle.</p>
+      <h1 class="text-green font-black text-4xl">Privacy Policy</h1>
+      <p class="mt-6 text-xl text-white">This site does not collect any personal data.</p>
     </section>
 
     <section
@@ -44,8 +38,7 @@
     >
       <h1 class="text-green font-black text-4xl">Contact</h1>
       <p class="mt-6 text-xl text-white">
-        Pour toute demande de renseignements ou de contact, vous pouvez vous adresser à JB MERCIER
-        en utilisant les moyens de contact mis à disposition.
+        For any request for information or contact, you can contact JB MERCIER using the means of contact provided.
       </p>
     </section>
 
