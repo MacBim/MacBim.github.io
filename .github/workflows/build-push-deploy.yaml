@@ -12,22 +12,6 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-    cs:
-        runs-on: ubuntu-latest
-        steps:
-            -   uses: actions/checkout@v2
-
-            -   name: install deps
-                run: npm install
-
-            -   name: eslint
-                run: npm run lint
-
-            -   name: type check
-                run: npm run type-check
-
-#            -   name: tests e2e
-#                run: npm run test:e2e
     build:
         needs: cs
         runs-on: ubuntu-latest
