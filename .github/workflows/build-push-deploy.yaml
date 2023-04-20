@@ -1,3 +1,5 @@
+name: pages-deploy
+
 on:
     release:
         types: [published]
