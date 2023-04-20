@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/MacBim/macbim.github.io/compare/v1.0.0...v1.0.1) (2023-04-20)
+
+
+### Bug Fixes
+
+* Remove useless files ([44fa5e5](https://github.com/MacBim/macbim.github.io/commit/44fa5e5433a5bf870bb9cc3724289b498a0daa0a))
+
 ## 1.0.0 (2023-04-20)
 
 
