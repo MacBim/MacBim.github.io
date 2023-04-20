@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.3](https://github.com/MacBim/macbim.github.io/compare/v1.0.2...v1.0.3) (2023-04-20)
+
+
+### Bug Fixes
+
+* Incorrect workflow ([056a398](https://github.com/MacBim/macbim.github.io/commit/056a398c2c295e556940450ea958296394a24826))
+* Incorrect workflow ([a2ab36e](https://github.com/MacBim/macbim.github.io/commit/a2ab36e128b4325096bec25824a4bd68c6db254b))
+* Incorrect workflow ([9990aca](https://github.com/MacBim/macbim.github.io/commit/9990aca8c37175706beafbcf6f17452b2b464213))
+
 ## [1.0.2](https://github.com/MacBim/macbim.github.io/compare/v1.0.1...v1.0.2) (2023-04-20)
 
 
