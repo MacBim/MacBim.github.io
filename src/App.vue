@@ -1,10 +1,14 @@
 <template>
-  <RouterView />
+  <div class="relative overflow-hidden">
+    <main class="bg-dark-black">
+      <RouterView />
+    </main>
+  </div>
 
-  <FooterComponent/>
+  <FooterComponent />
 </template>
 
 <script setup lang="ts">
 import { RouterView } from 'vue-router'
-import FooterComponent from "@/components/FooterComponent.vue";
+import FooterComponent from '@/components/FooterComponent.vue'
 </script>

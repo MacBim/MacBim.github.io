@@ -15,12 +15,21 @@ const router = createRouter({
       // route level code-splitting
       // this generates a separate chunk (About.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import('../views/LegalView.vue')
+      component: () => import('../views/LegalView.vue'),
+    },
+    {
+      path: '/:pathMatch(.*)*',
+      name: 'not-found',
+      component: () => import('../views/NotFoundView.vue')
     }
   ],
   scrollBehavior(to, from, savedPosition) {
-    if(savedPosition) {
-      return savedPosition;
+    if (to.hash != '') {
+      return { selector: to.hash, behavior: 'smooth' }
+    }
+
+    if (savedPosition) {
+      return savedPosition
     }
 
     return new Promise((resolve) => {
@@ -28,7 +37,7 @@ const router = createRouter({
         resolve({ left: 0, top: 0, behavior: 'smooth' })
       }, 100)
     })
-  },
+  }
 })
 
 export default router
