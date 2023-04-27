@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/MacBim/macbim.github.io/compare/v1.0.3...v1.0.4) (2023-04-27)
+
+
+### Bug Fixes
+
+* Incorrect deploy workflow ([14dd1dc](https://github.com/MacBim/macbim.github.io/commit/14dd1dc3963c252b165501519885d77b413f663d))
+* Incorrect deploy workflow ([20cd21f](https://github.com/MacBim/macbim.github.io/commit/20cd21fbc76161b107895bbda95d26c697c23793))
+
 ## [1.0.3](https://github.com/MacBim/macbim.github.io/compare/v1.0.2...v1.0.3) (2023-04-20)
 
 
