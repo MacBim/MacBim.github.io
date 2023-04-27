@@ -1,11 +1,11 @@
 <template>
-  <div class="relative overflow-hidden">
-    <main class="bg-dark-black">
-      <RouterView />
-    </main>
-  </div>
+    <div class="relative overflow-hidden">
+        <main class="bg-dark-black">
+            <RouterView />
+        </main>
+    </div>
 
-  <FooterComponent />
+    <FooterComponent />
 </template>
 
 <script setup lang="ts">

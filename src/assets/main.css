@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 .triangle {
-  clip-path: polygon(100% 100%, 0% 100%, 100% 0%);
+    clip-path: polygon(100% 100%, 0% 100%, 100% 0%);
 }
 
 .triangle-reverse {
-  clip-path: polygon(45% 0%, 0% 101%, 101% 0%);
+    clip-path: polygon(45% 0%, 0% 101%, 101% 0%);
 }

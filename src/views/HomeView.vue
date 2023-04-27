@@ -1,13 +1,13 @@
 <template>
-  <div>
-    <PresentationComponent />
+    <div>
+        <PresentationComponent />
 
-    <TechPresentationComponent />
+        <TechPresentationComponent />
 
-    <HobbiesComponent />
+        <HobbiesComponent />
 
-    <ContactComponent />
-  </div>
+        <ContactComponent />
+    </div>
 </template>
 
 <script setup lang="ts">
