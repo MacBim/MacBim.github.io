@@ -28,7 +28,7 @@ jobs:
     #                run: npm run test:e2e
 
     release-please:
-        depends: cs
+        needs: cs
         runs-on: ubuntu-latest
         steps:
             - uses: google-github-actions/release-please-action@v3
