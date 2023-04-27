@@ -27,11 +27,14 @@ jobs:
     #            -   name: tests e2e
     #                run: npm run test:e2e
 
-    release-please:
+    build-and-publish:
         needs: cs
         runs-on: ubuntu-latest
         steps:
-            - uses: google-github-actions/release-please-action@v3
-              with:
-                  release-type: node
-                  package-name: release-please-action
+            -   uses: actions/checkout@v2
+            -   id: Build-Vue
+                uses: xRealNeon/VuePagesAction@1.0.1
+                with:
+                    username: 'MacBim'
+                    reponame: 'macbim.github.io'
+                    token: ${{ secrets.GITHUB_TOKEN }} # Leave this line unchanged
