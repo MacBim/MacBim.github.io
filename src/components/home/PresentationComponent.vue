@@ -12,7 +12,7 @@
         </div>
         <div class="mb-10 mt-12 sm:max-w-lg w-1/2 xl:mb-0">
           <a
-            href="#contact"
+            @click="scrollToContact"
             class="text-center block w-full border border-transparent px-5 py-3 bg-green text-base font-medium text-black shadow hover:bg-dark-green sm:px-10"
             >Contact me !</a
           >
@@ -45,3 +45,13 @@
     </div>
   </section>
 </template>
+
+<script>
+export default {
+  methods: {
+    scrollToContact() {
+      document.getElementById('contact').scrollIntoView({ behavior: 'smooth' })
+    }
+  }
+}
+</script>

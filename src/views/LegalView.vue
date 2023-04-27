@@ -12,8 +12,14 @@
     <section class="pt-10 mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-8 lg:max-w-7xl">
       <h1 class="text-green font-black text-4xl">Credits</h1>
       <div class="mt-6 text-xl text-white">
-        <p>JB MERCIER's website is available at jb.mercier.com and was designed and developed by Amélia MASSOT.</p>
-        <p>This website was created as part of Amélia MASSOT's web design and web development skills within the company AKAWAKA, her employer.</p>
+        <p>
+          JB MERCIER's website is available at jb.mercier.com and was designed and developed by
+          Amélia MASSOT.
+        </p>
+        <p>
+          This website was created as part of Amélia MASSOT's web design and web development skills
+          within the company AKAWAKA, her employer.
+        </p>
         <p>The content of the site was written by JB MERCIER, who is the owner of the site.</p>
       </div>
     </section>
@@ -38,7 +44,8 @@
     >
       <h1 class="text-green font-black text-4xl">Contact</h1>
       <p class="mt-6 text-xl text-white">
-        For any request for information or contact, you can contact JB MERCIER using the means of contact provided.
+        For any request for information or contact, you can contact JB MERCIER using the means of
+        contact provided.
       </p>
     </section>
 
