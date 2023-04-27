@@ -10,7 +10,25 @@ permissions:
 name: release-please
 
 jobs:
+    cs:
+        runs-on: ubuntu-latest
+        steps:
+            -   uses: actions/checkout@v2
+
+            -   name: install deps
+                run: npm install
+
+            -   name: eslint
+                run: npm run lint
+
+            -   name: type check
+                run: npm run type-check
+
+    #            -   name: tests e2e
+    #                run: npm run test:e2e
+
     release-please:
+        depends: cs
         runs-on: ubuntu-latest
         steps:
             - uses: google-github-actions/release-please-action@v3
